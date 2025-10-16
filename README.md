@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my Portfolio
+# 👋 Hi there! Welcome
 
 I'm passionate about building innovative projects that solve real-world problems. Here's a showcase of my work across various domains:
 
