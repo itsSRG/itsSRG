@@ -21,7 +21,7 @@ I'm passionate about building innovative projects that solve real-world problems
 
 ## 📱 Sparsh - Tactile Feedback Enhancement
 
-**Sparsh** is an innovative tactile feedback device (smartphone casing) that revolutionizes the typing experience on virtual keyboards by providing distinct vibration feedback for every key.
+**Sparsh** is a tactile feedback device (smartphone casing) that revolutionizes the typing experience on virtual keyboards by providing distinct vibration feedback for every key.
 
 ### 📱 Cross-Platform Companion App
 - **Repository**: [Sparsh Companion App](https://github.com/itsSRG/enhancing_tactile_feedback_on_virtual_keyboard)
@@ -37,7 +37,7 @@ I'm passionate about building innovative projects that solve real-world problems
 
 ## 🤖 Mess Menu Bot - IIITDM
 
-A Telegram bot that provides daily mess menu information for the institute, successfully scaled to serve hundreds of users anonymously.
+A Telegram bot that provides daily mess menu information for the institute, successfully scaled to 100s of users anonymously.
 
 - **Repository**: [IIITDMMessMenuBot](https://github.com/itsSRG/IIITDMMessMenuBot)
 - **Platform**: Telegram
@@ -47,7 +47,7 @@ A Telegram bot that provides daily mess menu information for the institute, succ
 
 ## 🎨 Project Vedana - Sentiment to Image
 
-An experimental project exploring the fascinating concept of translating emotional sentiments from text into visual imagery.
+An experimental project exploring the concept of translating emotional sentiments from text into visual imagery.
 
 ### 🎥 Project Showcase
 
@@ -65,7 +65,6 @@ An experimental project exploring the fascinating concept of translating emotion
 A comprehensive contact sharing application that enables users to create groups and seamlessly share contacts with team members.
 
 ### 🎥 Application Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Caav4uObEw4" title="ShareTact Contact Sharing App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Watch the video](https://img.youtube.com/vi/Caav4uObEw4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Caav4uObEw4&list=PLzH5gr4qtycqb3y-EiZI16co8kcd-EqRA&index=4)
 
