@@ -28,7 +28,10 @@ I'm passionate about building innovative projects that solve real-world problems
 - **Platform**: Android/iOS
 
 ### 🎥 Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1XiJw1xZu5o" title="Sparsh Tactile Feedback Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/1XiJw1xZu5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XiJw1xZu5o&list=PLzH5gr4qtycqb3y-EiZI16co8kcd-EqRA&index=4)
+
+
 
 ---
 
@@ -47,7 +50,9 @@ A Telegram bot that provides daily mess menu information for the institute, succ
 An experimental project exploring the fascinating concept of translating emotional sentiments from text into visual imagery.
 
 ### 🎥 Project Showcase
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bMn6DY2UY-c" title="Project Vedana - Sentiment to Image" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/bMn6DY2UY-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=bMn6DY2UY-clist=PLzH5gr4qtycqb3y-EiZI16co8kcd-EqRA&index=4)
+
 
 - **Repository**: [Sentiment to Image](https://github.com/itsSRG/sentiment_to_image)
 - **Course**: Embedded Kinetic Artwork
@@ -61,6 +66,9 @@ A comprehensive contact sharing application that enables users to create groups 
 
 ### 🎥 Application Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Caav4uObEw4" title="ShareTact Contact Sharing App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/Caav4uObEw4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Caav4uObEw4&list=PLzH5gr4qtycqb3y-EiZI16co8kcd-EqRA&index=4)
+
 
 - **Repository**: [ShareTact](https://github.com/itsSRG/con_share)
 - **Course**: Harvard CS50X
